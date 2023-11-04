@@ -8,7 +8,7 @@ I'm a passionate software engineer with a strong focus on building web applicati
 
 ## Experience
 
-- **SDE Intern – Vedantu Innovations Pvt. Ltd. (Bangalore, India)** (02/2023 - 05/2023)
+- **IT Intern – Vedantu Innovations Pvt. Ltd. (Bangalore, India)** (02/2023 - 05/2023)
    - Worked on technologies such as PHP, Node.js, and MongoDB.
    - Collaborated closely with cross-functional teams to improve app stability and reduce glitches.
    - Spearheaded the deployment of pioneering solutions that enhanced user satisfaction and engagement.
