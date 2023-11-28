@@ -1,21 +1,101 @@
-# Hi, I'm Kunjan Goyal 👋
+<!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
+<div align="center"> 
 
-I'm a passionate software engineer with a strong focus on building web applications and creating exceptional user experiences. Here's a little bit about me:
+Software Developer
+</div>
 
-- 🌟 Over the years, I've had the privilege of working on diverse projects and technologies.
-- 🌱 I'm constantly learning and staying up to date with the latest web development technologies, including React and Laravel.
-- 💼 I have a strong foundation in computer science and engineering with a track record of successful internships and projects.
+<table><tr><td valign="top" width="40%"> 
 
-## Skills
+## <img width="25px" src="./devvsakib-hello.gif" alt="Hello Dev!"> I’m Kunjan G
 
-- **Programming Languages:** C/C++, Java, Python, HTML5/CSS, Javascript
-- **Frameworks:** Laravel, ReactJS, NodeJS, AWS
-- **CourseWork:** Data Structure & Algorithm, Operating System, OOPS, SDLC, Agile Methodology
+- 💻 I'm a Software Developer
+- 🆕 Exploring new technologies and developing software solutions and quick hacks.
+- 📫 kunjangoyal2002@gmail.com
 
-## Let's Connect
+<div align="center" display="flex"> 
 
-- [LinkedIn](https://www.linkedin.com/in/kunjan2002/)
-- [Leetcode](https://leetcode.com/kunjangoyal/)
-- Email: kunjangoyal2002@gmail.com
+### 💬 Let's connect
+Let's grow network together!
 
-Thanks for stopping by! I look forward to connecting, collaborating, and creating amazing things together.
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-yellow?logo=twitter&logoColor=dark)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-yellow?logo=hashnode&logoColor=blue)](https://hashnode.com/@devvsakib)
+
+![](https://komarev.com/ghpvc/?username=devvsakib&style=flat-square&color=yellow)
+![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square&color=yellow)
+  
+  </p>  
+  
+  
+ 
+ </div>
+
+</td><td width="30%">
+
+<img src="./cat.gif" alt="coding cat"> 
+
+</tr></tr></table> 
+
+
+
+
+<!-- 
+<a href="https://app.daily.dev/devvsakib">
+<img src="https://api.daily.dev/devcards/a709fe2da0104532bac3a421cdec7139.png?r=8lg" width="200" alt="Sakib Ahmed's Dev Card"/>
+</a>
+ -->
+<br>
+<br>
+
+<table><tr><td align="center" valign="top" width="70%">
+
+### 🛠️ Languages and Tools
+ 
+<br> 
+ 
+![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,materialui,redux,nextjs,firebase,mongodb,vscode,bash,git,github&perline=15) 
+
+</td><td align="center" valign="top" width="25%">
+ 
+### 🛠️ CMS Expert
+ 
+ <br> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
+ 
+</td> 
+  </tr>
+ </table>
+
+<br>
+
+### Activities on GitHUb
+<table border="0px" align="center"><tr><td>
+  <div>
+    <p style="margin-bottom:0">
+     
+  ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyalkunjann&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117)
+   
+   </p>
+  </div>
+</td><td>
+ 
+<!--  [![GitHub Streak](https://streak-stats.demolab.com?user=devvsakib&theme=yellowdark)](https://git.io/streak-stats) -->
+        
+### <p align="center">Top Language I Use </p>
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyalkunjann&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) 
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsakib&show_icons=true&theme=react&include_all_commit=true&count_private=true&hide_border=true&bg_color=0D1117"/>  -->
+  
+  </td>
+<!--  <tr>
+<td colspan="2" align="center"> 
+
+### <p align="center">Top Language I Use </p>
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyalkunjann&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) 
+
+   </td>
+  </tr>
+ [Test](https://github.com/goyalkunjann/github-readme-stats) -->
+</table>
+
+<br>
