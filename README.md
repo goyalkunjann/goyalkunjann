@@ -6,7 +6,7 @@ Software Developer
 
 <table><tr><td valign="top" width="40%"> 
 
-## <img width="25px" src="./devvsakib-hello.gif" alt="Hello Dev!"> I’m Kunjan G
+## <img width="25px" src="./devvsakib-hello.gif" alt="Hello Kunjan!"> I’m Kunjan Goyal
 
 - 💻 I'm a Software Developer
 - 🆕 Exploring new technologies and developing software solutions and quick hacks.
@@ -17,16 +17,7 @@ Software Developer
 ### 💬 Let's connect
 Let's grow network together!
 
- [![Twitter Badge](https://img.shields.io/badge/Twitter-yellow?logo=twitter&logoColor=dark)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-yellow?logo=hashnode&logoColor=blue)](https://hashnode.com/@devvsakib)
-
-![](https://komarev.com/ghpvc/?username=devvsakib&style=flat-square&color=yellow)
-![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square&color=yellow)
-  
-  </p>  
-  
-  
- 
- </div>
+</div>
 
 </td><td width="30%">
 
@@ -45,7 +36,7 @@ Let's grow network together!
 <br>
 <br>
 
-<table><tr><td align="center" valign="top" width="70%">
+<table><td align="center" valign="top" width="70%">
 
 ### 🛠️ Languages and Tools
  
@@ -53,16 +44,7 @@ Let's grow network together!
  
 ![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,materialui,redux,nextjs,firebase,mongodb,vscode,bash,git,github&perline=15) 
 
-</td><td align="center" valign="top" width="25%">
- 
-### 🛠️ CMS Expert
- 
- <br> 
- 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
- 
-</td> 
-  </tr>
+
  </table>
 
 <br>
