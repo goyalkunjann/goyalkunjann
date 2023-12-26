@@ -1,7 +1,7 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
 <div align="center"> 
 
-Software Developer
+
 </div>
 
 <table><tr><td valign="top" width="40%"> 
