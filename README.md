@@ -19,7 +19,7 @@ Let's grow network together!
 
 </div>
 
-</td><td width="30%">
+</td>
 
 <img src="./cat.gif" alt="coding cat"> 
 
@@ -42,7 +42,7 @@ Let's grow network together!
  
 <br> 
  
-![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,materialui,redux,nextjs,firebase,mongodb,vscode,bash,git,github&perline=15) 
+![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,redux,nextjs,firebase,mongodb,vscode,git,github&perline=15) 
 
 
  </table>
