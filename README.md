@@ -1,8 +1,10 @@
 # Hey there, I'm Kunjan 👋
 
-I'm a Frontend Developer with a passion for creating clean, responsive, and user-friendly websites. My expertise includes HTML, CSS, React, Next.js, and JavaScript, which I use to bring ideas to life on the web.
+I'm a **Software Engineer** passionate about building scalable full-stack applications and cloud-native solutions. I specialize in **Java, Spring Boot, React.js, TypeScript, Apache Kafka, and AWS**, with experience building REST APIs, microservices, and enterprise-grade systems. Currently at **Adobe**, I develop automation and backend solutions that improve engineering productivity and deliver reliable software at scale.
 
-I believe in the power of design and code working together to create seamless experiences for users. My focus is always on building intuitive and efficient interfaces that make digital interactions enjoyable.
+### 📫 Connect with me
 
-### How to reach me:
-- Email: [kunjangoyal2002@gmail.com](mailto:kunjangoyal2002@gmail.com)
+* **Email:** <a href="mailto:kunjangoyal2002@gmail.com">[kunjangoyal2002@gmail.com](mailto:kunjangoyal2002@gmail.com)</a>
+* **LinkedIn:** https://www.linkedin.com/in/kunjan2002/
+* **GitHub:** https://github.com/goyalkunjann
+* **LeetCode:** https://leetcode.com/u/kunjangoyal/
